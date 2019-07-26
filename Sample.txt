@@ -1,4 +1,4 @@
 hello world
 hello team
-testing merge conflicts
+hello user2
 
